@@ -1,0 +1,1 @@
+- faire une fonction pour calculer le quatrième point d'un plan dans l'espace en connaissant les trois premier
