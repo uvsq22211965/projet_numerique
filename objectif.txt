@@ -1,3 +1,3 @@
-- faire une fonction qui découpe un rectangle 
+- faire une fonction qui découpe un rectangle (ou la forme d'étude)
 définit par ses sommets en un nombre définit de points 
 qui se répartissent uniformément dans le rectangle
