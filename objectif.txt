@@ -1,1 +1,3 @@
-- faire une fonction pour calculer le quatrième point d'un plan dans l'espace en connaissant les trois premier
+- faire une fonction qui découpe un rectangle 
+définit par ses sommets en un nombre définit de points 
+qui se répartissent uniformément dans le rectangle
